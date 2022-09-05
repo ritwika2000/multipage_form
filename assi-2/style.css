@@ -1,0 +1,28 @@
+#regform
+{
+    background-color:bisque;
+    padding:20px;
+    margin:30px auto;
+    width:70%;
+}
+
+h1
+{
+    text-align: center;
+}
+.tab
+{
+    display: none;
+    margin-left: 37px;
+    margin-top: 41px;
+}
+.inputarea{
+    padding:2px;
+    width:933px;
+    border-radius: 6px;
+}
+#butt
+{
+    display:flex;
+    gap:2px;
+}
